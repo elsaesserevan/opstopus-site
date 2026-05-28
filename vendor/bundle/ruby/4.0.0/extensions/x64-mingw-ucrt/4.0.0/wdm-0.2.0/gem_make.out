@@ -1,0 +1,28 @@
+current directory: C:/Users/12067/OneDrive/Documents/GitHub/opstopus-site/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+C:/Ruby40-x64/bin/ruby.exe extconf.rb
+checking for -lkernel32... yes
+checking for windows.h... yes
+creating Makefile
+
+current directory: C:/Users/12067/OneDrive/Documents/GitHub/opstopus-site/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260521-8548-tj2b4n sitelibdir\=./.gem.20260521-8548-tj2b4n clean
+
+current directory: C:/Users/12067/OneDrive/Documents/GitHub/opstopus-site/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260521-8548-tj2b4n sitelibdir\=./.gem.20260521-8548-tj2b4n
+generating wdm_ext-x64-mingw-ucrt.def
+compiling entry.c
+compiling memory.c
+compiling monitor.c
+compiling queue.c
+compiling rb_change.c
+compiling rb_monitor.c
+compiling utils.c
+compiling wdm.c
+linking shared-object wdm_ext.so
+
+current directory: C:/Users/12067/OneDrive/Documents/GitHub/opstopus-site/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260521-8548-tj2b4n sitelibdir\=./.gem.20260521-8548-tj2b4n install
+/usr/bin/install -c -m 0755 wdm_ext.so ./.gem.20260521-8548-tj2b4n
+
+current directory: C:/Users/12067/OneDrive/Documents/GitHub/opstopus-site/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20260521-8548-tj2b4n sitelibdir\=./.gem.20260521-8548-tj2b4n clean
